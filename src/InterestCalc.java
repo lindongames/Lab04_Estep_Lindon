@@ -1,4 +1,4 @@
-public class Task03 {
+public class InterestCalc {
     public static void main(String[] args) {
 
         double balance = 5000.00;
@@ -14,6 +14,5 @@ public class Task03 {
         System.out.println("Starting Balance: $" + balance);
         System.out.println("Interest Due After One Month: $" + firstMonthInterest);
         System.out.println("Interest Due After Two Months: $" + secondMonthInterest);
-
     }
 }

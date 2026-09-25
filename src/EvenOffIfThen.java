@@ -1,4 +1,5 @@
-public class Task04 {
+// This is an If then statement determining if a number is even or odd.
+public class EvenOffIfThen {
     public static void main(String[] args) {
 
         int numToExamine = 2;

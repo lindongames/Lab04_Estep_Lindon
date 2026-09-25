@@ -1,4 +1,4 @@
-public class Task01 {
+public class SalesTaxCode {
     public static void main(String[] args) {
 
       double price = 100;

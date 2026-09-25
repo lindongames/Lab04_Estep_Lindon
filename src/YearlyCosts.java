@@ -1,4 +1,4 @@
-public class Task02 {
+public class YearlyCosts {
     public static void main(String[] args) {
 
 
