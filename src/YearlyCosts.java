@@ -1,3 +1,4 @@
+// This is a display of yearly costs for each season.
 public class YearlyCosts {
     public static void main(String[] args) {
 

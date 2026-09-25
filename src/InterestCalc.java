@@ -1,3 +1,4 @@
+// This is an interest calulator.
 public class InterestCalc {
     public static void main(String[] args) {
 
